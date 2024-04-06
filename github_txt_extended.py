@@ -1,4 +1,4 @@
-# git_txt_extended
+# github_txt_extended
 
 class Artist:
     def __init__(self, name, project_name, release_month, streams):
